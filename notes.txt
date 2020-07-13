@@ -1,0 +1,22 @@
+C9odtgUds5_9tErRKT0bM8A7azLSoclliS8BPqsXY4x3
+
+
+https://api.eu-gb.discovery.watson.cloud.ibm.com/instances/4d148d8d-3e03-4c65-8126-57bc20c493b3
+
+
+Chocolate! This file does not contain c-h-o-c-o-l-a-t-e  chari, c-h-a-s-i-s cholo c-h-o-l-o-l-o-l-o
+ChocolateThisfiledoesnotcontainchocolatecjkbkhbjhbhocolatecharichasischolocholololo
+
+str2 = "Chocolate! This file does not contain C%h__=_=o_c-o==l##a%^&t-\*\e c-h-o-c-o-l-a-t-e   chari, c-h-a-s-i-s cholo c-h-o-l-o-l-o-l-o"
+
+
+fileName = random.choice(["choco.txt", "choc.txt", "chocolat.txt"])
+ replace = random.choice(["carrot", "cocoa", "cream"])
+ lines = ["Chocolate, CHOCOLATE : you're the best!",
+          "Milk chocolate, dark chocolate?  Who cares?",
+          "I'm happy when I eat chocolate.  You?",
+          "This line does not contain c-h-o-c-o-l-a-t-e",
+          "It's cold... I want some hot chocolate, now!"]
+ title = ["POEM: Chocolate Poem",
+          "POEM: Chocolate Chocolate", "POEM: Chocolate Anyone?"]
+ author = ["--Anonymous", "--Francis", "--DFT"]

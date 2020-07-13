@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+} // {
+//     "version": "0.2.0",
+//     "configurations": [
+//         {
+//             "name": "PythonWSL",
+//             "type": "python",
+//             "request": "launch",
+//             "program": "/mnt/c/Users/aalha/Desktop/PyResitSubs/test.py",
+//             "console": "integratedTerminal",
+//             "cwd": "/mnt/c/Users/aalha/Desktop/PyResitSubs"
+//         }
+//         //... other settings, but I modified the "Current File" setting above ...
+//     ]
+// }

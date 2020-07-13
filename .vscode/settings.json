@@ -1,0 +1,83 @@
+// {
+//     // "python.pythonPath": "/usr/bin/python3",
+//     // "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+//     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+//     "terminal.integrated.shell.linux": "/bin/zsh",
+//     "python.pythonPath": "C:\\Users\\aalha\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+// "files.associations": {
+// "/mnt/c/Users/aalha/Desktop/PyResitSubs/*.py": "python"
+// },
+// "launch": {
+// 	"configurations": [
+//         {
+//             "name": "PythonWSL",
+//             "type": "python",
+//             "request": "launch",
+//             // "program": "/mnt/c/Users/aalha/Desktop/PyResitSubs/test.py",
+//             "console": "integratedTerminal",
+//             // "cwd": "/mnt/c/Users/aalha/Desktop/PyResitSubs"
+//         }
+//     ],
+// 	"compounds": []
+// },
+// "terminal.integrated.cwd": "/mnt/c/Users/aalha/Desktop/PyResitSubs",
+{
+    // "python.pythonPath": "C:\\Users\\aalha\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "python.dataScience.sendSelectionToInteractiveWindow": false,
+    "terminal.integrated.lineHeight": 0,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe",
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "editor.fontFamily": "\"Menlo for Powerline\", Consolas, 'Courier New', monospace",
+    "terminal.integrated.fontFamily": "\"Menlo for Powerline\"",
+    "codespaces.accountProvider": "Microsoft",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "liveshare.account": "",
+    "liveshare.focusBehavior": "prompt",
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "python.autoComplete.extraPaths": [],
+    "python.testing.pytestPath": "C:\\Users\\aalha\\Anaconda3\\Scripts\\pytest",
+    // "C:\\Users\\aalha\\AppData\\Roaming\\Python\\Python37\\Scripts\\pytest",
+    // "C:\\Users\\aalha\\Anaconda3\\Scripts\\pytest",
+    // "/c/Users/aalha/Anaconda3/Scripts/pytest"
+    // "C:/Users/aalha/Anaconda3/Scripts/pytest",
+    //     "workbench.colorCustomizations": {
+    //     }
+    // }
+    // "window.zoomLevel": 14,
+    "editor.fontSize": 15,
+    "python.testing.pytestEnabled": true,
+    "code-runner.runInTerminal": true,
+    "window.zoomLevel": 0,
+    "terminal.integrated.fontSize": 14,
+    "python.testing.pytestArgs": [
+        "pytest"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.formatting.provider": "autopep8",
+    // "python.formatting.blackPath": "/home/ahmedhallag/.local/bin/black"
+    "python.formatting.autopep8Path": "C:\\Users\\aalha\\Anaconda3\\Scripts\\autopep8.exe",
+    "editor.formatOnSaveTimeout": 3000
+}
+// {
+//     "python.pythonPath": "C:\\Users\\aalha\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+//     "python.dataScience.sendSelectionToInteractiveWindow": false,
+//     "terminal.integrated.fontSize": 16,
+//     "terminal.integrated.lineHeight": 0,
+//     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+//     "terminal.integrated.shell.linux": "/bin/zsh",
+//     "editor.fontFamily": "\"Menlo for Powerline\", Consolas, 'Courier New', monospace",
+//     "terminal.integrated.fontFamily": "\"Menlo for Powerline\"",
+//     "codespaces.accountProvider": "Microsoft",
+//     "editor.suggestSelection": "first",
+//     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+//     "liveshare.account": "",
+//     "liveshare.focusBehavior": "prompt",
+//     "workbench.colorTheme": "Atom One Dark",
+//     "workbench.iconTheme": "material-icon-theme",
+//     "python.autoComplete.extraPaths": [
+//     ],
+//"python.defaultInterpreterPath": "python3"
+// }

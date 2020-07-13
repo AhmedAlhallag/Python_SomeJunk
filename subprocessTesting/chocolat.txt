@@ -1,0 +1,5 @@
+POEM: Chocolate Poem
+It's cold... I want some hot chocolate, now!
+It's cold... I want some hot chocolate, now!
+This line does not contain c-h-o-c-o-l-a-t-e
+--Francis
